@@ -23,7 +23,7 @@ Tambien agregamos mas campos
                   resultado += "\n";
                }
 
-               alert (resultado);
+             
                alert (resultado2);
 
             }
